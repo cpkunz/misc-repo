@@ -2,8 +2,6 @@
 
 ![graph1](Images/Lemonade.png)
 
-# Lemonade - Refreshing not just as a Beverage
-
 ## Overview and Origin
 
 - **Name of company**
