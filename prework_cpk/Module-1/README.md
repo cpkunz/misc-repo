@@ -2,7 +2,7 @@
 
 # Unit 1 Homework Assignment: FinTech Case Study
 
-![graph1](Documents/FINTech/misc-repo/prework_cpk/Module-1/Images/Lemonade.png)
+![graph1](Images/Lemonade.png)
 
 # <span style="color: #FF0083">Lemonade - Refreshing not just as a Beverage
 
@@ -104,12 +104,12 @@ Pricing Moduling*
 *Customer satisfaction*
 *This area is where Lemonade is exptected to perform outstanding. However, it seems that Lemonade is being outperformed by 50+ other insurance companies. This could also be due to the fact that Lemonade is new in the domain.*
 
-![graph2](CustomerSatisfaction.png)
+![graph2](Images/CustomerSatisfaction.png)
 
 *Pricing*
 *Not brokers and bureaucracy allows Lemonade to offer same coverage as other competetors for less than 50%. Have to keep in mind that not all competitors are offering the same policy categories. However, similiar to saving 15 minutes can save up to 15% of car insureance - Lemonade can save 80% in 90 seconds.*
 
-![graph3](Pricing.png)
+![graph3](Images/Pricing.png)
 
 * How is your company performing relative to competitors in the same domain?
 
